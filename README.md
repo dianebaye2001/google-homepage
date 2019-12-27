@@ -1,0 +1,1 @@
+In questo progetto ho provato a realizzare una homepage piu o meno simile a quella di goole utilizzando HTML e CSS, ho sfruttato stackoverflow in caso di bisogno.
